@@ -1,4 +1,27 @@
-# F-35 DEFCON 33 Badge User Guide
+<h1><p align="center">DARKSTAR BADGE</p></h1>
+
+<p align="center">
+~A User Guide~
+</p>
+
+-----
+<p align="center">
+A Lockheed Martin Aeronautics Cyber Range (ACR) project.<br>
+Join us on <a href="https://discord.gg/PAeSnwXgJZ">discord</a><br><br>
+<img src="images/Image.jpeg" width="350" height="200" border="10"/>
+</p>
+
+> Disclaimer
+>> [!NOTE]
+>> Everything about this badge was made using open-source and public information.
+>>
+>> The protocols were invented specifically for this badge, despite concepts being based on real protocols.
+>>
+>> This badge is for fun and educational purposes :smile:
+-----
+<h2><p align="center">Overall Badge Purpose</p></h2>
+
+<h4><p align="center"> ACCESS EVERYWHERE Current Gen Badge Dominace and take-out the opposition using the latest in BLE and IR smart weapons!</p></h4>
 
 ## Introduction
 
@@ -83,7 +106,20 @@ If you are hit:
 
 ## LED Patterns
 
-Your badge features customizable LED patterns around the perimeter.
+Your badge features customizable LED patterns around the perimeter.<br>
+
+The RGB LEDs are arranged in 2 sections:<br>
+
+| LED    | State | Description |
+| :----------: | :----------: | :----------: |
+| Front | Green | Targetting another badge, can shoot   |
+| Front  | Red  | Lethal State, can be shot    |
+| Main   | RGB   | Change Passive setting in Settings     |
+| Main    | RED Breathe    | Happens while Dead      |
+
+The LEDs next to the power switch have two functions:<br>
+- Blue LED: Indicates that the badge is charging <br>
+- Red LED: Indicates the badge is powered on<br>
 
 ### Customizing LEDs
 
@@ -147,6 +183,64 @@ Your badge can connect to WiFi for updates.
 ### Checking for Updates
 
 Press and hold both left and right buttons to check for updates. If an update is available, your badge will download and install it automatically.
+
+### LIVERY
+<table>
+<tr>
+<td width="33%">
+Lockheed logo<br>
+</td>
+<td width="33%">
+ACR Team logo<br>
+</td>
+<td width="33%">
+The unofficial team logo<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<p align="center">
+<img src="images/LM_logo_white.png" border="10"/>
+</p>
+</td>
+
+
+<td>
+<p align="center">
+<img src="images/ACR_Logo_Full.png" border="10"/>
+</p>
+</td>
+<td>
+<p align="center">
+<img src="images/Derpy_Remastered.png" border="10"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+Defcon33 Theme slogan<br>
+</td>
+<td width="33%">
+Darkstar Inspired Details<br>
+</td>
+</tr>
+
+<td>
+<p align="center">
+<img src="images/dc33-logo-transp.webp"border="10"/>
+</p>
+</td>
+
+<td>
+<p align="center">
+<img src="images/darkstar_orig.webp" border="10"/>
+</p>
+</td>
+</tr>
+</table>
+
 
 ## Credits
 
