@@ -226,7 +226,7 @@ Defcon33 Theme slogan<br>
 
 <td>
 <p align="center">
-<img src="images/dc33-logo-transp.webps"border="10"/>
+<img src="images/dc33-logo-transp.webp"border="10"/>
 </p>
 </td>
 
