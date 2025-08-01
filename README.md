@@ -241,4 +241,4 @@ Defcon33 Theme slogan<br>
 - 3D design by: Broske
 - A Lockheed Martin Aeronautics Cyber Range Project
 
-Enjoy your DEFCON 32 F-35 Badge!
+Enjoy your DEFCON 33 F-35 Badge!
