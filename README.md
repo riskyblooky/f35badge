@@ -1,4 +1,4 @@
-<h1><p align="center">DARKSTAR BADGE</p></h1>
+<h1><p align="center">F35 BADGE</p></h1>
 
 <p align="center">
 ~A User Guide~
@@ -222,22 +222,14 @@ The unofficial team logo<br>
 <td width="33%">
 Defcon33 Theme slogan<br>
 </td>
-<td width="33%">
-Darkstar Inspired Details<br>
-</td>
 </tr>
 
 <td>
 <p align="center">
-<img src="images/dc33-logo-transp.webp"border="10"/>
+<img src="images/dc33-logo-transp.webps"border="10"/>
 </p>
 </td>
 
-<td>
-<p align="center">
-<img src="images/darkstar_orig.webp" border="10"/>
-</p>
-</td>
 </tr>
 </table>
 
